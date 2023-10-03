@@ -2,7 +2,7 @@
 ____
 **Table of Contents**
 
-- [__YOGYM-Milestone 1st project__](#Shopify-final-milestone-project)
+- [SHOPIFY-Milestone Final project__](#Shopify-final-milestone-project)
   - [__Description__](#description)
   - [__Shopify responsive website__](#yogym-responsive-website)
   - [__User Experience goals__](#user-experience-goals)
@@ -10,8 +10,6 @@ ____
     - [__Frequent user:__](#frequent-user)
     - [__Returning User:__](#returning-user)
   - [__Design__](#design)
-    - [__color scheme__](#color-scheme)
-    - [__Typography__](#typography)
     - [__imagery__](#imagery)
   - [__Structure__](#structure)
     - [Homepage](#homepage)
