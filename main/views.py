@@ -1,4 +1,4 @@
-# Django Imports 
+# Django Imports
 from django.shortcuts import (
   render,
   redirect,
